@@ -6171,7 +6171,7 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-bottom: 0.8rem !important; }
 
 .ml-4,
 .mx-4 {
@@ -7581,13 +7581,13 @@ h1, h2, h3, h4, h5,
     font-size: 18px;
     font-weight: 500; }
     .hero-wrap .text .img {
-      width: 200px;
-      height: 200px;
+      width: 310px;
+      height: 310px;
       margin: 0 auto;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
-      border-radius: 50%; }
+      border-radius: 60%; }
     .hero-wrap .text .subheading {
       font-size: 24px;
       color: #bfbfbf;
@@ -8035,7 +8035,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 14px;
   background: #132238;
-  padding: 6em 0; }
+  padding: 4em 0em 2em 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
     letter-spacing: .1em; }
