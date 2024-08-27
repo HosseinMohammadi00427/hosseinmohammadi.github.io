@@ -7336,7 +7336,8 @@ h1, h2, h3, h4, h5,
   transition: all 0.5s ease; }
   @media (min-width: 992px) {
     #colorlib-aside {
-      width: 25%; } }
+      width: 25%; 
+      overflow: hidden;} }
   @media (max-width: 991.98px) {
     #colorlib-aside {
       width: 270px;
