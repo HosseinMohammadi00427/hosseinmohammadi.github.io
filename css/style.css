@@ -8544,3 +8544,28 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+
+
+    /* added by me! */
+
+    .within_text_table {
+      width: 100%;
+      border-collapse: collapse;
+  }
+  .within_text_table  th, td {
+      border: 1px solid #b2b2b2;
+      padding: 8px;
+      text-align: left;
+  }
+  .within_text_table th {
+      background-color: #b7b7b7;
+      color: white;
+  }
+  .within_text_table tr:nth-child(even) {
+      background-color: #f2f2f2; /* Light grey background for even rows */
+  }
+  .within_text_table tr:nth-child(odd) {
+      background-color: white; /* White background for odd rows */
+  }
