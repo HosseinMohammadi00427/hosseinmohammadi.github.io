@@ -912,8 +912,8 @@ pre {
   .col-md-7 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 58.33333%;
-    flex: 0 0 58.33333%;
-    max-width: 58.33333%; }
+    flex: 0 0 75%;
+    max-width: 75%; }
   .col-md-8 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 66.66667%;
@@ -7590,7 +7590,7 @@ h1, h2, h3, h4, h5,
     background: #fff;
     z-index: 0; }
   .hero-wrap.hero-wrap-2 .overlay {
-    opacity: .8; }
+    opacity: .7; }
   .hero-wrap .text {
     z-index: 1;
     font-size: 18px;
