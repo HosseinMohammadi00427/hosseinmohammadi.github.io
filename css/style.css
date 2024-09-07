@@ -8584,3 +8584,9 @@ textarea.form-control {
   .within_text_table tr:nth-child(odd) {
       background-color: white; /* White background for odd rows */
   }
+
+  @media(max-height: 600px) {
+    .hide_when_height_low {
+      display: none;
+    }
+  }

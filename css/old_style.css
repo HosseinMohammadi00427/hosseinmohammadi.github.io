@@ -8548,3 +8548,10 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+    @media(max-height: 600px) {
+      .hide_when_height_low {
+        display: none;
+      }
+    }
